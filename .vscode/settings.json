@@ -1,0 +1,13 @@
+{
+  "java.project.sourcePaths": [
+    "Solutions/8_singleton",
+    "Solutions/7_while",
+    "Solutions/6_forEtIf",
+    "Solutions/5_Comparaison",
+    "Solutions/4_PrivateEtPublic",
+    "Solutions/3_Encapsulation",
+    "Solutions/2_Instance",
+    "Solutions/1_Class",
+    "Solutions/9_polymorphisme"
+  ]
+}
