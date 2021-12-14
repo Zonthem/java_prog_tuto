@@ -1,5 +1,7 @@
 {
   "java.project.sourcePaths": [
+    "Solutions/9_surcharge",
+    "Solutions/9_polymorphisme",
     "Solutions/8_singleton",
     "Solutions/7_while",
     "Solutions/6_forEtIf",
@@ -8,6 +10,6 @@
     "Solutions/3_Encapsulation",
     "Solutions/2_Instance",
     "Solutions/1_Class",
-    "Solutions/9_polymorphisme"
+    "Solutions/10_distributeur_de_billets"
   ]
 }
